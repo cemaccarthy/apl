@@ -1,0 +1,16 @@
+{
+  "name": "APL Studio — Dyalog Workbench",
+  "short_name": "APL Studio",
+  "description": "Editor, files and a live session for Dyalog APL, built for iPad.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1017",
+  "theme_color": "#0b1017",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
